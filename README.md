@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @bdong5
-- 👀 I’m interested in skiing and swimming.
+- 👋 Hi, I’m Brandon!
+- 👀 I’m interested in Computer Science and Statistics.
+- 🔰 Fluent in Python, C/C++, SQL, SPSS, R, Julia, Mandarin, English
+- 🏊‍♂️ In my free time, I like to either go swimming or skiing.
 
 
 <!---
