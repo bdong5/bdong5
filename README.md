@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon!
 - 👀 I’m interested in Computer Science and Statistics.
-- 🔰 Fluent in Python, C/C++, SQL, SPSS, R, Julia, Mandarin, English
+- 🔰 Proficient in Python, C/C++, SQL, SPSS, R, Julia, Mandarin, English
 - 🏊‍♂️ In my free time, I like to either go swimming or skiing.
 
 
